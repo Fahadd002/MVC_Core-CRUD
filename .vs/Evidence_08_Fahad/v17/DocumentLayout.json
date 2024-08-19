@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\viewmodels\\producteditmoel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\viewmodels\\producteditmoel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\viewmodels\\productinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\viewmodels\\productinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|d:\\module_08_mvc_core\\evidence_08_fahad\\evidence_08_fahad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8D45C6-F9DB-4A91-9092-F2048F401FF6}|Evidence_08_Fahad\\Evidence_08_Fahad.csproj|solutionrelative:evidence_08_fahad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Evidence_08_Fahad\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:09:46.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Evidence_08_Fahad\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T18:58:52.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Evidence_08_Fahad\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T15:45:39.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Evidence_08_Fahad\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T14:12:33.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductEditMoel.cs",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\ViewModels\\ProductEditMoel.cs",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\ViewModels\\ProductEditMoel.cs",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\ViewModels\\ProductEditMoel.cs",
+              "RelativeToolTip": "Evidence_08_Fahad\\ViewModels\\ProductEditMoel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:07:17.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Evidence_08_Fahad\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T18:47:03.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Evidence_08_Fahad\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAA0AAAAAeczMzMwvwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T19:42:37.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductInputModel.cs",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\ViewModels\\ProductInputModel.cs",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\ViewModels\\ProductInputModel.cs",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\ViewModels\\ProductInputModel.cs",
+              "RelativeToolTip": "Evidence_08_Fahad\\ViewModels\\ProductInputModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T19:25:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\appsettings.json",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\appsettings.json",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\appsettings.json",
+              "RelativeToolTip": "Evidence_08_Fahad\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-04T19:20:55.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Evidence_08_Fahad\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T20:08:10.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Program.cs",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\Program.cs",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Program.cs",
+              "RelativeToolTip": "Evidence_08_Fahad\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T19:14:21.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbModel.cs",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Models\\DbModel.cs",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\Models\\DbModel.cs",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Models\\DbModel.cs",
+              "RelativeToolTip": "Evidence_08_Fahad\\Models\\DbModel.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:28:56.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\libman.json",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\libman.json",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\libman.json",
+              "RelativeToolTip": "Evidence_08_Fahad\\libman.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-04T18:42:35.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Evidence_08_Fahad\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Module_08_MVC_Core\\Evidence_08_Fahad\\Evidence_08_Fahad\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Evidence_08_Fahad\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T18:48:11.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

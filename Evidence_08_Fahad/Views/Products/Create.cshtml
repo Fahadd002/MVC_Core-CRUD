@@ -1,0 +1,108 @@
+﻿@model ProductInputModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="row">
+    <div class="col-12">
+        <form asp-action="Create" method="post" asp-controller="Products" enctype="multipart/form-data">
+            <h2>Create new product</h2>
+            <div class="form-group row mb-1">
+                <label asp-for="ProductName" class="col-form-label col-2"></label>
+
+                <div class="col-4">
+                    <input type="text" asp-for="ProductName" class="form-control" />
+                    <span asp-validation-for="ProductName" class="text-danger" style="font-size:small"></span>
+
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label asp-for="Price" class="col-form-label col-2"></label>
+
+                <div class="col-4">
+                    <input asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger" style="font-size:small"></span>
+
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label asp-for="ExpireDate" class="col-form-label col-2"></label>
+
+                <div class="col-4">
+                    <input type="text" asp-for="ExpireDate" class="form-control date" />
+                    <span asp-validation-for="ExpireDate" class="text-danger" style="font-size:small"></span>
+
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label asp-for="Picture" class="col-form-label col-2"></label>
+
+                <div class="col-4">
+                    <input type="file" asp-for="Picture" class="form-control" />
+                    <span asp-validation-for="Picture" class="text-danger" style="font-size:small"></span>
+
+                </div>
+            </div>
+
+            <div class="col-6">
+                <div class="d-flex justify-content-lg-between align-content-center">
+                    <h3>Sales</h3>
+                    <button class="btn py-2" type="submit" name="act" value="add" formnovalidate><i class="fa fa-plus"></i></button>
+                </div>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Quantity</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (var i = 0; i < Model.Sales.Count; i++)
+                        {
+                            <tr>
+                                <td>
+                                    <input type="text" asp-for="@Model.Sales[i].SaleDate" class="form-control date" />
+                                    <span asp-validation-for="@Model.Sales[i].SaleDate" class="text-danger" style="font-size:small"></span>
+                                </td>
+                                <td>
+                                    <input type="text" asp-for="@Model.Sales[i].Quantity" class="form-control" />
+                                    <span asp-validation-for="@Model.Sales[i].Quantity" class="text-danger" style="font-size:small"></span>
+
+
+                                </td>
+                                <td>
+                                    <button type="submit" name="act" value="remove_@i" class="btn" formnovalidate><i class="fa fa-trash"></i></button>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+            <div class="col-6 text-end">
+                <button type="submit" class="btn btn-primary" name="act" value="insert">Save</button>
+            </div>
+        </form>
+    </div>
+    <div class="col-12">
+        @Html.ActionLink("Back to list", "Index")
+    </div>
+</div>
+@section styles
+{
+    <link href="~/libs/icons/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/libs/picker/css/bootstrap-datepicker.standalone.css" rel="stylesheet" />
+}
+@section scripts {
+    <script src="~/libs/jquery/jquery.js"></script>
+    <script src="~/libs/validate/jquery.validate.js"></script>
+    <script src="~/libs/unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/libs/picker/js/bootstrap-datepicker.js"></script>
+    <script>
+        $(".date").datepicker({
+            format: "yyyy-mm-dd"
+        })
+    </script>
+}

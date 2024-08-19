@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Evidence_08_Fahad.props" />
+</Project>
